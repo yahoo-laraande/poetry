@@ -1,7 +1,0 @@
-total 24
-drwxr-xr-x  3 tlberglund  staff   102 Mar 21 10:56 build
--rw-r--r--  1 tlberglund  staff  2014 Mar 21 10:57 console.log
--rw-r--r--  1 tlberglund  staff    23 Mar 21 10:44 cruft6.txt
--rw-r--r--  1 tlberglund  staff   241 Mar 21 09:58 raven.txt
-drwxr-xr-x  3 tlberglund  staff   102 Mar 21 10:58 src
-drwxr-xr-x  3 tlberglund  staff   102 Mar 21 10:56 target
