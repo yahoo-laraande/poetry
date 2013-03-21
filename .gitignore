@@ -1,0 +1,5 @@
+cruft*.txt
+*~
+*.bak
+target/
+
