@@ -2,4 +2,6 @@ cruft*.txt
 *~
 *.bak
 target/
+build/
+*.log
 
