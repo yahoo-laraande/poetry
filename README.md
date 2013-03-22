@@ -5,5 +5,6 @@
 ## Coming Soon
 * Shelley
 * Chesterton
+* Ferlinghetti
 * Community Contributions!
 
